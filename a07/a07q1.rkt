@@ -1,13 +1,6 @@
 ;; The first three lines of this file were inserted by DrRacket. They record metadata
 ;; about the language level of this file in a form that our tools can easily process.
 #reader(lib "htdp-intermediate-reader.ss" "lang")((modname a07q1) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #f)))
-;;
-;; ******************************************
-;;   Ekansh Lakhyani (20945086)
-;;   CS 115 Fall 2021
-;;   Assignment 07, Question 1
-;; ******************************************
-;;
 
 
 ;; (subtract-min lon) produces a list of numbers after subtracting

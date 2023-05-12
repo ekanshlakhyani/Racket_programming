@@ -2,11 +2,6 @@
 ;; about the language level of this file in a form that our tools can easily process.
 #reader(lib "htdp-beginner-reader.ss" "lang")((modname a02q2) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #t)))
 
-;; ******************************************
-;;   Ekansh Lakhyani (20945086)
-;;   CS 115 Fall 2021
-;;   Assignment 02, Question 2
-;; ******************************************
 
 
 (define (valid-local? num)

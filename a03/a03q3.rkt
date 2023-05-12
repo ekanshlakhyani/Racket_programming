@@ -2,11 +2,7 @@
 ;; about the language level of this file in a form that our tools can easily process.
 #reader(lib "htdp-beginner-reader.ss" "lang")((modname a03q3) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #t)))
 
-;; ******************************************
-;;   Ekansh Lakhyani (20945086)
-;;   CS 115 Fall 2021
-;;   Assignment 03, Question 3
-;; ******************************************
+
 
 
 ;; constants for the months of the year and symbols used in

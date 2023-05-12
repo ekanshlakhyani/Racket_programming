@@ -2,11 +2,6 @@
 ;; about the language level of this file in a form that our tools can easily process.
 #reader(lib "htdp-beginner-reader.ss" "lang")((modname a03q1) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #t)))
 
-;; ******************************************
-;;   Ekansh Lakhyani (20945086)
-;;   CS 115 Fall 2021
-;;   Assignment 03, Question 1
-;; ******************************************
 
 
 ;; (abstract-advice low high val  s1 s2 s) produces s1 if val is less
